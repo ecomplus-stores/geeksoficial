@@ -25,9 +25,17 @@
       "collection_id": null,
       "sort": "offers",
       "title": "",
-      "headless": false,
+      "headless": true,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "headless": true,
+      "sort": "sales"
     }
   ]
 }
