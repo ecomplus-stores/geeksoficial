@@ -1,9 +1,15 @@
 {
-  "title": "Esta loja é um Progressive Web App",
-  "date": "2019-05-16T16:01:40.618Z",
-  "thumbnail": "/img/uploads/pwa-reliable.png",
-  "description": "PWA é uma evolução híbrida entre um aplicativo e uma página web, que torna a experiência de uso de uma página web pelo celular semelhante a de um aplicativo mobile.\n\n",
-  "body": "![PWA](/img/uploads/pwa-reliable.png)\n\nProgressive Web App (PWA) é uma criação da da Google que permite a criação de aplicações que são um meio termo entre uma página web e um aplicativo nativo. Nosso Storefront padrão é um PWA!\n\nCom o grande aumento de tráfego mobile no e-commerce um PWA commerce traz enormes vantagens. Veja abaixo as principais vantagens e com alguns exemplos de sucesso com estudos de caso feitos pelo Google\n\n**Digno de estar na tela inicial**\n\nQuando os critérios do Progressive Web App são atendidos, o Chrome solicita que os usuários adicionem o PWA à tela inicial. Com isso a loja se transforma em uma aplicação nativa sem a necessidade de download através de uma app store. Isso pode não funcionar perfeitamente em IOS que tem 13,57% do market share mobile brasileiro, sendo quase todo o resto dominado pelo Android.\n\n**Maior engajamento**\n\nO PWA da [eXtra Electronics](https://developers.google.com/web/showcase/2016/extra) aumentou o re-engajamento em 4X, esses usuários gastam o dobro do tempo no site.\n Com a [OLX ](https://developers.google.com/web/showcase/2017/olx) o aumento do o re-engajamento foi de 250%.\n\n**Aumento na taxa de conversão**\n\nA capacidade de fornecer de um PWA melhorar a experiência ao usuário, ajudou o [AliExpress](https://developers.google.com/web/showcase/2016/aliexpress) a aumentar a taxa de conversão de novos usuários em 104%.",
-  "meta_title": "PWA - My Shop",
-  "meta_description": "Esta loja é um JAMstack PWA"
+  "title": "5 Animes curtinhos para maratonar no carnaval!",
+  "date": "",
+  "thumbnail": "/img/uploads/17503-whatsapp-image-2022-02-28-at-10.37.36.jpeg",
+  "description": "\n\n",
+  "body": "![Feriadão de carnaval chegouu 🥳🤩 E pra quem gosta de foliar vendo um anime 🤓 eu separei pra você 5 animes ÓTIMOS e curtos pra você assistir tudo nesse feriadão😛. 📺Assiste e depois me conta qual foi que você mais gostou 🤩]()",
+  "meta_title": "",
+  "meta_description": "",
+  "sections": [
+    {
+      "type": "blog-post",
+      "enabled": true
+    }
+  ]
 }
