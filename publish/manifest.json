@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.f7ade436805319f4c0689f00c73cddde.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.046866185329682a431ab8a0003512ed.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.73de01a698718f5174e808f848ea9988.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.0b755671faa3c61016ec4a20def22068.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.5ffbab8480efd1e27719b8d963c0a653.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Geek's, tudo do seu universo em um só lugar!",
+  "short_name": "geeksoficial",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "geeksoficial",
+  "background_color": "#ffffff",
+  "theme_color": "#555b64"
+}
